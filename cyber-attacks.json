@@ -1,0 +1,923 @@
+[
+   {
+      "name": "PLC Password Change",
+      "year": 1988,
+      "sources": [
+         "https://www.risidata.com/Database/Detail/plc-password-change"
+      ],
+      "tool_mapping": {
+         "Initial access": "Non-cyber non-conforming",
+         "Execution": "Non-cyber non-conforming",
+         "Persistence": "Not performed",
+         "Evasion": "Not performed",
+         "Discovery": "Not performed",
+         "Lateral movement": "Not performed",
+         "Collection": "Not performed",
+         "Command and control": "Not performed",
+         "Inhibit response function": "Non-cyber non-conforming",
+         "Impair process control": "Non-cyber non-conforming"
+      }
+   },
+   {
+      "name": "Computer Sabotage at Nuclear Power Plant",
+      "year": 1992,
+      "sources": [
+         "https://www.chathamhouse.org/sites/default/files/field/field_document/20151005CyberSecurityNuclearBaylonBruntLivingstone.pdf"
+      ],
+      "tool_mapping": {
+         "Initial access": "Non-cyber non-conforming",
+         "Execution": "Unknown",
+         "Persistence": "Unknown",
+         "Evasion": "Not performed",
+         "Discovery": "Unknown",
+         "Lateral movement": "Not performed",
+         "Collection": "Unknown",
+         "Command and control": "Unknown",
+         "Inhibit response function": "Unknown",
+         "Impair process control": "Unknown"
+      }
+   },
+   {
+      "name": "Omega Engineering Sabotage",
+      "year": 1996,
+      "sources": [
+         "http://edition.cnn.com/2000/TECH/computing/06/27/omega.files.idg/"
+      ],
+      "tool_mapping": {
+         "Initial access": "Non-cyber conforming",
+         "Execution": "Non-commodity",
+         "Persistence": "Non-commodity",
+         "Evasion": "Non-commodity",
+         "Discovery": "Not performed",
+         "Lateral movement": "Not performed",
+         "Collection": "Not performed",
+         "Command and control": "Not performed",
+         "Inhibit response function": "Non-commodity",
+         "Impair process control": "Non-commodity"
+      }
+   },
+   {
+      "name": "Worcester Air Traffic Communications System Hack",
+      "year": 1997,
+      "sources": [
+         "http://edition.cnn.com/TECH/computing/9803/18/juvenile.hacker/index.html",
+         "http://www.irational.org/APD/CCIPS/juvenilepld.htm"
+      ],
+      "tool_mapping": {
+         "Initial access": "Auxiliary conforming",
+         "Execution": "Auxiliary non-conforming",
+         "Persistence": "Not performed",
+         "Evasion": "Not performed",
+         "Discovery": "Not performed",
+         "Lateral movement": "Not performed",
+         "Collection": "Not performed",
+         "Command and control": "Not performed",
+         "Inhibit response function": "Not performed",
+         "Impair process control": "Auxiliary non-conforming"
+      }
+   },
+   {
+      "name": "Maroochy Shire Sewage Spill",
+      "year": 2000,
+      "sources": [
+         "https://www.mitre.org/sites/default/files/pdf/08_1145.pdf"
+      ],
+      "tool_mapping": {
+         "Initial access": "Auxiliary non-conforming",
+         "Execution": "Auxiliary non-conforming",
+         "Persistence": "Auxiliary non-conforming",
+         "Evasion": "Not performed",
+         "Discovery": "Not performed",
+         "Lateral movement": "Not performed",
+         "Collection": "Not performed",
+         "Command and control": "Auxiliary non-conforming",
+         "Inhibit response function": "Auxiliary non-conforming",
+         "Impair process control": "Auxiliary non-conforming"
+      }
+   },
+   {
+      "name": "DoS Attack Shuts Down Port of Houston",
+      "year": 2001,
+      "sources": [
+         "https://cardozoaelj.com/wp-content/uploads/Journal%20Issues/Volume%2024/Issue%201/Edwards.pdf",
+         "https://www.zdnet.com/article/revenge-hack-downed-us-port-systems/"
+      ],
+      "tool_mapping": {
+         "Initial access": "Non-commodity",
+         "Execution": "Non-commodity",
+         "Persistence": "Non-commodity",
+         "Evasion": "Not performed",
+         "Discovery": "Non-commodity",
+         "Lateral movement": "Not performed",
+         "Collection": "Non-commodity",
+         "Command and control": "Non-commodity",
+         "Inhibit response function": "Non-commodity",
+         "Impair process control": "Non-commodity"
+      }
+   },
+   {
+      "name": "Ski Gondola Worker Shutdown Control System",
+      "year": 2002,
+      "sources": [
+         "https://www.risidata.com/Database/Detail/ski-gondola-worker-shutdown-control-system"
+      ],
+      "tool_mapping": {
+         "Initial access": "Non-cyber unknown",
+         "Execution": "Non-cyber non-conforming",
+         "Persistence": "Not performed",
+         "Evasion": "Not performed",
+         "Discovery": "Not performed",
+         "Lateral movement": "Not performed",
+         "Collection": "Not performed",
+         "Command and control": "Not performed",
+         "Inhibit response function": "Not performed",
+         "Impair process control": "Non-cyber non-conforming"
+      }
+   },
+   {
+      "name": "Power Plant Security Information Leaked Onto Internet",
+      "year": 2006,
+      "sources": [
+         "https://www.baselinemag.com/c/a/Projects-Security/Security-Breach-Power-Plants-Data-Leaks-Onto-Net"
+      ],
+      "tool_mapping": {
+         "Initial access": "Unknown",
+         "Execution": "Unknown",
+         "Persistence": "Auxiliary conforming",
+         "Evasion": "Not performed",
+         "Discovery": "Not performed",
+         "Lateral movement": "Not performed",
+         "Collection": "Auxiliary conforming",
+         "Command and control": "Not performed",
+         "Inhibit response function": "Not performed",
+         "Impair process control": "Not performed"
+      }
+   },
+   {
+      "name": "Engineers Hack into Los Angeles Traffic Signal Computer",
+      "year": 2006,
+      "sources": [
+         "https://www.computerworld.com/article/2549204/two-charged-with-hacking-la-traffic-lights.html"
+      ],
+      "tool_mapping": {
+         "Initial access": "Auxiliary non-conforming",
+         "Execution": "Unknown",
+         "Persistence": "Not performed",
+         "Evasion": "Not performed",
+         "Discovery": "Not performed",
+         "Lateral movement": "Not performed",
+         "Collection": "Not performed",
+         "Command and control": "Not performed",
+         "Inhibit response function": "Unknown",
+         "Impair process control": "Unknown"
+      }
+   },
+   {
+      "name": "California Canal System Hack",
+      "year": 2007,
+      "sources": [
+         "https://www.computerworld.com/article/2540235/insider-charged-with-hacking-california-canal-system.html"
+      ],
+      "tool_mapping": {
+         "Initial access": "Non-cyber conforming",
+         "Execution": "Unknown",
+         "Persistence": "Not performed",
+         "Evasion": "Not performed",
+         "Discovery": "Not performed",
+         "Lateral movement": "Not performed",
+         "Collection": "Not performed",
+         "Command and control": "Not performed",
+         "Inhibit response function": "Unknown",
+         "Impair process control": "Unknown"
+      }
+   },
+   {
+      "name": "Former System Administrator Sentenced for Wrecking Corporate Servers",
+      "year": 2007,
+      "sources": [
+         "https://www.csoonline.com/article/2123366/former-worker-sentenced-for-wrecking-servers.html"
+      ],
+      "tool_mapping": {
+         "Initial access": "Auxiliary non-conforming",
+         "Execution": "Auxiliary conforming",
+         "Persistence": "Not performed",
+         "Evasion": "Not performed",
+         "Discovery": "Not performed",
+         "Lateral movement": "Not performed",
+         "Collection": "Not performed",
+         "Command and control": "Not performed",
+         "Inhibit response function": "Auxiliary conforming",
+         "Impair process control": "Auxiliary conforming"
+      }
+   },
+   {
+      "name": "Schoolboy Hacks into Polish Tram System",
+      "year": 2008,
+      "sources": [
+         "https://www.itnews.com.au/news/teenager-hacks-polish-tram-system-100838"
+      ],
+      "tool_mapping": {
+         "Initial access": "Non-cyber conforming",
+         "Execution": "Non-commodity",
+         "Persistence": "Not performed",
+         "Evasion": "Not performed",
+         "Discovery": "Not performed",
+         "Lateral movement": "Not performed",
+         "Collection": "Not performed",
+         "Command and control": "Non-commodity",
+         "Inhibit response function": "Not performed",
+         "Impair process control": "Non-commodity"
+      }
+   },
+   {
+      "name": "Hacker Activates Emergency Sirens",
+      "year": 2008,
+      "sources": [
+         "https://www.risidata.com/Database/Detail/hacker_activates_emergency_sirens"
+      ],
+      "tool_mapping": {
+         "Initial access": "Unknown",
+         "Execution": "Unknown",
+         "Persistence": "Unknown",
+         "Evasion": "Not performed",
+         "Discovery": "Unknown",
+         "Lateral movement": "Not performed",
+         "Collection": "Not performed",
+         "Command and control": "Unknown",
+         "Inhibit response function": "Unknown",
+         "Impair process control": "Unknown"
+      }
+   },
+   {
+      "name": "Environmental Southland Target of Cyber Vandals",
+      "year": 2009,
+      "sources": [
+         "https://www.risidata.com/Database/Detail/environmental_southland_target_of_cyber_vandals"
+      ],
+      "tool_mapping": {
+         "Initial access": "Unknown",
+         "Execution": "Unknown",
+         "Persistence": "Not performed",
+         "Evasion": "Not performed",
+         "Discovery": "Not performed",
+         "Lateral movement": "Not performed",
+         "Collection": "Not performed",
+         "Command and control": "Not performed",
+         "Inhibit response function": "Unknown",
+         "Impair process control": "Unknown"
+      }
+   },
+   {
+      "name": "Texas Road Sign Hack",
+      "year": 2009,
+      "sources": [
+         "https://www.wired.com/2009/02/austin-road-sig/"
+      ],
+      "tool_mapping": {
+         "Initial access": "Non-cyber conforming",
+         "Execution": "Non-cyber conforming",
+         "Persistence": "Not performed",
+         "Evasion": "Not performed",
+         "Discovery": "Not performed",
+         "Lateral movement": "Not performed",
+         "Collection": "Not performed",
+         "Command and control": "Not performed",
+         "Inhibit response function": "Not performed",
+         "Impair process control": "Not performed"
+      }
+   },
+   {
+      "name": "Hospital HVAC Hack",
+      "year": 2009,
+      "sources": [
+         "https://www.wired.com/2011/03/ghostexodus-2/",
+         "https://archives.fbi.gov/archives/dallas/press-releases/2011/dl031811.htm"
+      ],
+      "tool_mapping": {
+         "Initial access": "Non-cyber conforming",
+         "Execution": "Commodity",
+         "Persistence": "Commodity",
+         "Evasion": "Not performed",
+         "Discovery": "Not performed",
+         "Lateral movement": "Not performed",
+         "Collection": "Commodity",
+         "Command and control": "Commodity",
+         "Inhibit response function": "Not performed",
+         "Impair process control": "Not performed"
+      }
+   },
+   {
+      "name": "Texas Power Company Hack",
+      "year": 2009,
+      "sources": [
+         "https://www.wired.com/2009/05/efh/"
+      ],
+      "tool_mapping": {
+         "Initial access": "Auxiliary non-conforming",
+         "Execution": "Auxiliary conforming",
+         "Persistence": "Not performed",
+         "Evasion": "Not performed",
+         "Discovery": "Not performed",
+         "Lateral movement": "Not performed",
+         "Collection": "Not performed",
+         "Command and control": "Not performed",
+         "Inhibit response function": "Not performed",
+         "Impair process control": "Auxiliary conforming"
+      }
+   },
+   {
+      "name": "Hacker Disabled Offshore Oil Platforms",
+      "year": 2009,
+      "sources": [
+         "https://www.wired.com/2009/03/feds-hacker-dis/",
+         "https://www.wired.com/images_blogs/threatlevel/files/azar.pdf",
+         "https://storage.courtlistener.com/recap/gov.uscourts.cacd.439674/gov.uscourts.cacd.439674.18.0.pdf"
+      ],
+      "tool_mapping": {
+         "Initial access": "Auxiliary non-conforming",
+         "Execution": "Auxiliary conforming",
+         "Persistence": "Not performed",
+         "Evasion": "Not performed",
+         "Discovery": "Not performed",
+         "Lateral movement": "Not performed",
+         "Collection": "Not performed",
+         "Command and control": "Not performed",
+         "Inhibit response function": "Not performed",
+         "Impair process control": "Auxiliary conforming"
+      }
+   },
+   {
+      "name": "Malware Shuts Down Milling Factory",
+      "year": 2010,
+      "sources": [
+         "https://www.risidata.com/Database/Detail/malware-shuts-down-milling-factory",
+         "https://collaborate.mitre.org/attackics/index.php/Software/S0010"
+      ],
+      "tool_mapping": {
+         "Initial access": "Non-commodity",
+         "Execution": "Non-commodity",
+         "Persistence": "Non-commodity",
+         "Evasion": "Non-commodity",
+         "Discovery": "Non-commodity",
+         "Lateral movement": "Non-commodity",
+         "Collection": "Non-commodity",
+         "Command and control": "Non-commodity",
+         "Inhibit response function": "Non-commodity",
+         "Impair process control": "Non-commodity"
+      }
+   },
+   {
+      "name": "Malware Targets Uranium Enrichment Facility",
+      "year": 2010,
+      "sources": [
+         "https://www.risidata.com/Database/Detail/malware_targets_uranium_enrichment_facility",
+         "https://collaborate.mitre.org/attackics/index.php/Software/S0010"
+      ],
+      "tool_mapping": {
+         "Initial access": "Non-commodity",
+         "Execution": "Non-commodity",
+         "Persistence": "Non-commodity",
+         "Evasion": "Non-commodity",
+         "Discovery": "Non-commodity",
+         "Lateral movement": "Non-commodity",
+         "Collection": "Non-commodity",
+         "Command and control": "Non-commodity",
+         "Inhibit response function": "Non-commodity",
+         "Impair process control": "Non-commodity"
+      }
+   },
+   {
+      "name": "Disgruntled Employee Remotely Disables Cars using the Webtech Plus System",
+      "year": 2010,
+      "sources": [
+         "https://www.csmonitor.com/Technology/Horizons/2010/0318/Disgruntled-hacker-remotely-disables-100-cars",
+         "https://www.wired.com/2010/03/hacker-bricks-cars/"
+      ],
+      "tool_mapping": {
+         "Initial access": "Auxiliary non-conforming",
+         "Execution": "Auxiliary conforming",
+         "Persistence": "Not performed",
+         "Evasion": "Not performed",
+         "Discovery": "Not performed",
+         "Lateral movement": "Not performed",
+         "Collection": "Not performed",
+         "Command and control": "Not performed",
+         "Inhibit response function": "Not performed",
+         "Impair process control": "Auxiliary conforming"
+      }
+   },
+   {
+      "name": "Hacker froze operations at pharmaceutical company",
+      "year": 2011,
+      "sources": [
+         "https://www.inforisktoday.com/guilty-plea-in-drug-company-hack-a-3968",
+         "https://www.wired.com/images_blogs/threatlevel/2011/08/Jason-Cornish-Complaint.pdf"
+      ],
+      "tool_mapping": {
+         "Initial access": "Auxiliary non-conforming",
+         "Execution": "Auxiliary conforming",
+         "Persistence": "Not performed",
+         "Evasion": "Not performed",
+         "Discovery": "Not performed",
+         "Lateral movement": "Not performed",
+         "Collection": "Not performed",
+         "Command and control": "Not performed",
+         "Inhibit response function": "Auxiliary conforming",
+         "Impair process control": "Auxiliary conforming"
+      }
+   },
+   {
+      "name": "Industrial Control System Hacked Using Backdoor Posted Online",
+      "year": 2012,
+      "sources": [
+         "https://info.publicintelligence.net/FBI-AntisecICS.pdf"
+      ],
+      "tool_mapping": {
+         "Initial access": "Auxiliary conforming",
+         "Execution": "Auxiliary conforming",
+         "Persistence": "Not performed",
+         "Evasion": "Not performed",
+         "Discovery": "Not performed",
+         "Lateral movement": "Not performed",
+         "Collection": "Not performed",
+         "Command and control": "Not performed",
+         "Inhibit response function": "Not performed",
+         "Impair process control": "Not performed"
+      }
+   },
+   {
+      "name": "Aramco hit by Shamoon",
+      "year": 2012,
+      "sources": [
+         "https://money.cnn.com/2015/08/05/technology/aramco-hack/",
+         "https://core.ac.uk/download/pdf/322474772.pdf",
+         "http://www.symantec.com/connect/blogs/shamoon-attacks"
+      ],
+      "tool_mapping": {
+         "Initial access": "Unknown",
+         "Execution": "Non-commodity",
+         "Persistence": "Non-commodity",
+         "Evasion": "Non-commodity",
+         "Discovery": "Non-commodity",
+         "Lateral movement": "Non-commodity",
+         "Collection": "Not performed",
+         "Command and control": "Non-commodity",
+         "Inhibit response function": "Non-commodity",
+         "Impair process control": "Non-commodity"
+      }
+   },
+   {
+      "name": "Shamoon virus knocks out computers at Qatari gas firm RasGas",
+      "year": 2012,
+      "sources": [
+         "http://wired.com/2012/08/hack-attack-strikes-rasgas/",
+         "http://www.symantec.com/connect/blogs/shamoon-attacks"
+      ],
+      "tool_mapping": {
+         "Initial access": "Unknown",
+         "Execution": "Non-commodity",
+         "Persistence": "Non-commodity",
+         "Evasion": "Non-commodity",
+         "Discovery": "Non-commodity",
+         "Lateral movement": "Non-commodity",
+         "Collection": "Not performed",
+         "Command and control": "Non-commodity",
+         "Inhibit response function": "Non-commodity",
+         "Impair process control": "Non-commodity"
+      }
+   },
+   {
+      "name": "Cyber attack Port of antwerp",
+      "year": 2013,
+      "sources": [
+         "https://www.seatrade-maritime.com/europe/antwerp-incident-highlights-maritime-it-security-risk",
+         "https://www.bbc.com/news/world-europe-24539417"
+      ],
+      "tool_mapping": {
+         "Initial access": "Non-cyber non-conforming",
+         "Execution": "Non-commodity",
+         "Persistence": "Non-commodity",
+         "Evasion": "Not performed",
+         "Discovery": "Not performed",
+         "Lateral movement": "Not performed",
+         "Collection": "Non-cyber conforming",
+         "Command and control": "Not performed",
+         "Inhibit response function": "Not performed",
+         "Impair process control": "Not performed"
+      }
+   },
+   {
+      "name": "TGB water station hacks",
+      "year": 2014,
+      "sources": [
+         "https://www.bleepingcomputer.com/news/security/fired-employee-hacks-and-shuts-down-smart-water-readers-in-five-us-cities/",
+         "https://regmedia.co.uk/2017/06/26/flanagan.pdf"
+      ],
+      "tool_mapping": {
+         "Initial access": "Auxiliary non-conforming",
+         "Execution": "Auxiliary unknown",
+         "Persistence": "Not performed",
+         "Evasion": "Not performed",
+         "Discovery": "Not performed",
+         "Lateral movement": "Not performed",
+         "Collection": "Not performed",
+         "Command and control": "Not performed",
+         "Inhibit response function": "Auxiliary unknown",
+         "Impair process control": "Auxiliary unknown"
+      }
+   },
+   {
+      "name": "Control systems device remotely accessed by threat actor",
+      "year": 2014,
+      "sources": [
+         "https://web.archive.org/web/20140923170256/https://ics-cert.us-cert.gov/sites/default/files/Monitors/ICS-CERT_Monitor_%20Jan-April2014.pdf"
+      ],
+      "tool_mapping": {
+         "Initial access": "Auxiliary conforming",
+         "Execution": "Not performed",
+         "Persistence": "Not performed",
+         "Evasion": "Not performed",
+         "Discovery": "Not performed",
+         "Lateral movement": "Not performed",
+         "Collection": "Not performed",
+         "Command and control": "Not performed",
+         "Inhibit response function": "Not performed",
+         "Impair process control": "Not performed"
+      }
+   },
+   {
+      "name": "Russian-Based Dragonfly Group Attacks Energy Industry",
+      "year": 2014,
+      "sources": [
+         "https://www.bbc.com/news/technology-28106478",
+         "https://attack.mitre.org/groups/G0035/",
+         "https://attack.mitre.org/software/S0093/"
+      ],
+      "tool_mapping": {
+         "Initial access": "Non-commodity",
+         "Execution": "Non-commodity",
+         "Persistence": "Non-commodity",
+         "Evasion": "Non-commodity",
+         "Discovery": "Non-commodity",
+         "Lateral movement": "Commodity",
+         "Collection": "Non-commodity",
+         "Command and control": "Non-commodity",
+         "Inhibit response function": "Not performed",
+         "Impair process control": "Not performed"
+      }
+   },
+   {
+      "name": "Goatse image on billboards in Atlanta",
+      "year": 2015,
+      "sources": [
+         "https://www.bbc.com/news/technology-32826351"
+      ],
+      "tool_mapping": {
+         "Initial access": "Auxiliary conforming",
+         "Execution": "Auxiliary conforming",
+         "Persistence": "Not performed",
+         "Evasion": "Not performed",
+         "Discovery": "Not performed",
+         "Lateral movement": "Not performed",
+         "Collection": "Not performed",
+         "Command and control": "Not performed",
+         "Inhibit response function": "Not performed",
+         "Impair process control": "Not performed"
+      }
+   },
+   {
+      "name": "Ukraine BlackEnergy 3 power grid attack",
+      "year": 2015,
+      "sources": [
+         "https://www.boozallen.com/content/dam/boozallen/documents/2016/09/ukraine-report-when-the-lights-went-out.pdf"
+      ],
+      "tool_mapping": {
+         "Initial access": "Non-commodity",
+         "Execution": "Non-commodity",
+         "Persistence": "Non-commodity",
+         "Evasion": "Non-commodity",
+         "Discovery": "Non-commodity",
+         "Lateral movement": "Non-commodity",
+         "Collection": "Non-commodity",
+         "Command and control": "Non-commodity",
+         "Inhibit response function": "Non-commodity",
+         "Impair process control": "Non-commodity"
+      }
+   },
+   {
+      "name": "Return of Shamoon",
+      "year": 2016,
+      "sources": [
+         "History of Industrial Control System Cyber Incidents - Idaho National Laboratory"
+      ],
+      "tool_mapping": {
+         "Initial access": "Unknown",
+         "Execution": "Commodity",
+         "Persistence": "Commodity",
+         "Evasion": "Commodity",
+         "Discovery": "Commodity",
+         "Lateral movement": "Commodity",
+         "Collection": "Not performed",
+         "Command and control": "Commodity",
+         "Inhibit response function": "Commodity",
+         "Impair process control": "Commodity"
+      }
+   },
+   {
+      "name": "Drinking water utility cellular routers hacked",
+      "year": 2016,
+      "sources": [
+         "A Review of Cybersecurity Incidents in the Water Sector - Journal of Environmental Engineering",
+         "https://www.circleofblue.org/2017/water-management/water-utility-cyberattack-rings-hefty-data-charges/"
+      ],
+      "tool_mapping": {
+         "Initial access": "Unknown",
+         "Execution": "Unknown",
+         "Persistence": "Not performed",
+         "Evasion": "Not performed",
+         "Discovery": "Not performed",
+         "Lateral movement": "Not performed",
+         "Collection": "Not performed",
+         "Command and control": "Not performed",
+         "Inhibit response function": "Not performed",
+         "Impair process control": "Not performed"
+      }
+   },
+   {
+      "name": "Kemuri Water Company",
+      "year": 2016,
+      "sources": [
+         "Data breach digest - Verizon 2016"
+      ],
+      "tool_mapping": {
+         "Initial access": "Unknown",
+         "Execution": "Auxiliary conforming",
+         "Persistence": "Auxiliary conforming",
+         "Evasion": "Not performed",
+         "Discovery": "Not performed",
+         "Lateral movement": "Auxiliary conforming",
+         "Collection": "Not performed",
+         "Command and control": "Not performed",
+         "Inhibit response function": "Not performed",
+         "Impair process control": "Auxiliary conforming"
+      }
+   },
+   {
+      "name": "Dragonfly 2.0 attacks",
+      "year": 2016,
+      "sources": [
+         "https://us-cert.cisa.gov/ncas/alerts/TA18-074A",
+         "https://attack.mitre.org/groups/G0074/",
+         "https://web.archive.org/web/20170914121525/https://www.symantec.com/connect/blogs/dragonfly-western-energy-sector-targeted-sophisticated-attack-group"
+      ],
+      "tool_mapping": {
+         "Initial access": "Unknown",
+         "Execution": "Non-commodity",
+         "Persistence": "Commodity",
+         "Evasion": "Auxiliary conforming",
+         "Discovery": "Unknown",
+         "Lateral movement": "Auxiliary conforming",
+         "Collection": "Non-commodity",
+         "Command and control": "Non-commodity",
+         "Inhibit response function": "Not performed",
+         "Impair process control": "Not performed"
+      }
+   },
+   {
+      "name": "Maersk NotPetya attack",
+      "year": 2017,
+      "sources": [
+         "History of Industrial Control System Cyber Incidents - Idaho National Laboratory",
+         "https://www.wired.com/story/notpetya-cyberattack-ukraine-russia-code-crashed-the-world/"
+      ],
+      "tool_mapping": {
+         "Initial access": "Non-commodity",
+         "Execution": "Non-commodity",
+         "Persistence": "Commodity",
+         "Evasion": "Not performed",
+         "Discovery": "Non-commodity",
+         "Lateral movement": "Non-commodity",
+         "Collection": "Commodity",
+         "Command and control": "Not performed",
+         "Inhibit response function": "Non-commodity",
+         "Impair process control": "Non-commodity"
+      }
+   },
+   {
+      "name": "Onslow Water and Sewer Authority",
+      "year": 2018,
+      "sources": [
+         "A Review of Cybersecurity Incidents in the Water Sector - Journal of Environmental Engineering"
+      ],
+      "tool_mapping": {
+         "Initial access": "Unknown",
+         "Execution": "Commodity",
+         "Persistence": "Commodity",
+         "Evasion": "Not performed",
+         "Discovery": "Commodity",
+         "Lateral movement": "Commodity",
+         "Collection": "Not performed",
+         "Command and control": "Commodity",
+         "Inhibit response function": "Commodity",
+         "Impair process control": "Commodity"
+      }
+   },
+   {
+      "name": "Cyber attack on U.S. Power grid networks",
+      "year": 2019,
+      "sources": [
+         "https://www.eenews.net/stories/1061111289",
+         "https://www.eenews.net/assets/2019/09/06/document_ew_02.pdf"
+      ],
+      "tool_mapping": {
+         "Initial access": "Unknown",
+         "Execution": "Unknown",
+         "Persistence": "Not performed",
+         "Evasion": "Not performed",
+         "Discovery": "Not performed",
+         "Lateral movement": "Not performed",
+         "Collection": "Not performed",
+         "Command and control": "Not performed",
+         "Inhibit response function": "Not performed",
+         "Impair process control": "Unknown"
+      }
+   },
+   {
+      "name": "Kansas water cleaning shutdown",
+      "year": 2019,
+      "sources": [
+         "https://www.documentcloud.org/documents/20890976-wyatt-travnichek-indictment"
+      ],
+      "tool_mapping": {
+         "Initial access": "Auxiliary non-conforming",
+         "Execution": "Auxiliary unknown",
+         "Persistence": "Not performed",
+         "Evasion": "Not performed",
+         "Discovery": "Not performed",
+         "Lateral movement": "Not performed",
+         "Collection": "Not performed",
+         "Command and control": "Not performed",
+         "Inhibit response function": "Not performed",
+         "Impair process control": "Auxiliary unknown"
+      }
+   },
+   {
+      "name": "US coast guard Ryuk attack",
+      "year": 2020,
+      "sources": [
+         "https://www.pcrisk.com/internet-threat-news/16680-us-coast-guard-announces-it-suffered-a-ryuk-infection",
+         "https://www.dco.uscg.mil/Portals/9/DCO%20Documents/5p/MSIB/2019/MSIB_10_19.pdf",
+         "https://collaborate.mitre.org/attackics/index.php/Software/S0011"
+      ],
+      "tool_mapping": {
+         "Initial access": "Unknown",
+         "Execution": "Commodity",
+         "Persistence": "Commodity",
+         "Evasion": "Not performed",
+         "Discovery": "Commodity",
+         "Lateral movement": "Commodity",
+         "Collection": "Not performed",
+         "Command and control": "Commodity",
+         "Inhibit response function": "Not performed",
+         "Impair process control": "Commodity"
+      }
+   },
+   {
+      "name": "Oldsmar water supply attack",
+      "year": 2021,
+      "sources": [
+         "https://www.tampabay.com/news/pinellas/2021/02/08/someone-tried-to-poison-oldsmars-water-supply-during-hack-sheriff-says/",
+         "https://www.reuters.com/article/us-usa-cyber-florida-idUSKBN2A82FV/"
+      ],
+      "tool_mapping": {
+         "Initial access": "Auxiliary conforming",
+         "Execution": "Auxiliary conforming",
+         "Persistence": "Not performed",
+         "Evasion": "Not performed",
+         "Discovery": "Not performed",
+         "Lateral movement": "Not performed",
+         "Collection": "Not performed",
+         "Command and control": "Not performed",
+         "Inhibit response function": "Not performed",
+         "Impair process control": "Not performed"
+      }
+   },
+   {
+      "name": "Iran railsystem attacks",
+      "year": 2021,
+      "sources": [
+         "https://research.checkpoint.com/2021/indra-hackers-behind-recent-attacks-on-iran/",
+         "https://www.sentinelone.com/labs/meteorexpress-mysterious-wiper-paralyzes-iranian-trains-with-epic-troll/"
+      ],
+      "tool_mapping": {
+         "Initial access": "Unknown",
+         "Execution": "Non-commodity",
+         "Persistence": "Non-commodity",
+         "Evasion": "Non-commodity",
+         "Discovery": "Non-commodity",
+         "Lateral movement": "Non-commodity",
+         "Collection": "Not performed",
+         "Command and control": "Not performed",
+         "Inhibit response function": "Non-commodity",
+         "Impair process control": "Non-commodity"
+      }
+   },
+   {
+      "name": "Hacker Accessed CA Water Treatment System",
+      "year": 2021,
+      "sources": [
+         "https://isssource.com/hacker-accessed-water-treatment-system/",
+         "https://www.nbcnews.com/tech/security/hacker-tried-poison-calif-water-supply-was-easy-entering-password-rcna1206"
+      ],
+      "tool_mapping": {
+         "Initial access": "Auxiliary conforming",
+         "Execution": "Auxiliary conforming",
+         "Persistence": "Not performed",
+         "Evasion": "Not performed",
+         "Discovery": "Not performed",
+         "Lateral movement": "Not performed",
+         "Collection": "Not performed",
+         "Command and control": "Not performed",
+         "Inhibit response function": "Not performed",
+         "Impair process control": "Auxiliary conforming"
+      }
+   },
+   {
+      "name": "Bombardier operational information theft",
+      "year": 2021,
+      "sources": [
+         "https://www.zdnet.com/article/airplane-maker-bombardier-data-posted-on-ransomware-leak-site-following-fta-hack/"
+      ],
+      "tool_mapping": {
+         "Initial access": "Unknown",
+         "Execution": "Unknown",
+         "Persistence": "Not performed",
+         "Evasion": "Not performed",
+         "Discovery": "Not performed",
+         "Lateral movement": "Not performed",
+         "Collection": "Unknown",
+         "Command and control": "Not performed",
+         "Inhibit response function": "Not performed",
+         "Impair process control": "Not performed"
+      }
+   },
+   {
+      "name": "Military contractors information stealing",
+      "year": 2022,
+      "sources": [
+         "https://www.bleepingcomputer.com/news/security/stealthy-hackers-target-military-and-weapons-contractors-in-recent-attack/",
+         "https://www.securonix.com/blog/detecting-steepmaverick-new-covert-attack-campaign-targeting-military-contractors/"
+      ],
+      "tool_mapping": {
+         "Initial access": "Auxiliary conforming",
+         "Execution": "Non-commodity",
+         "Persistence": "Non-commodity",
+         "Evasion": "Non-commodity",
+         "Discovery": "Not performed",
+         "Lateral movement": "Not performed",
+         "Collection": "Unknown",
+         "Command and control": "Non-commodity",
+         "Inhibit response function": "Not performed",
+         "Impair process control": "Not performed"
+      }
+   },
+   {
+      "name": "SiegedSec attack on Rockwell PLCs OpJane",
+      "year": 2022,
+      "sources": [
+         "https://www.mandiant.com/resources/blog/hacktivists-targeting-ot-systems",
+         "https://blog.cyble.com/2022/07/25/global-hacktivism-on-the-rise/"
+      ],
+      "tool_mapping": {
+         "Initial access": "Auxiliary conforming",
+         "Execution": "Commodity",
+         "Persistence": "Not performed",
+         "Evasion": "Not performed",
+         "Discovery": "Not performed",
+         "Lateral movement": "Not performed",
+         "Collection": "Not performed",
+         "Command and control": "Not performed",
+         "Inhibit response function": "Not performed",
+         "Impair process control": "Commodity"
+      }
+   },
+   {
+      "name": "GhostSec cyberattacks on Berghof PLCs",
+      "year": 2022,
+      "sources": [
+         "https://www.otorio.com/blog/pro-palestinian-hacking-group-compromises-berghof-plcs-in-israel/"
+      ],
+      "tool_mapping": {
+         "Initial access": "Auxiliary conforming",
+         "Execution": "Auxiliary conforming",
+         "Persistence": "Not performed",
+         "Evasion": "Not performed",
+         "Discovery": "Not performed",
+         "Lateral movement": "Not performed",
+         "Collection": "Auxiliary conforming",
+         "Command and control": "Not performed",
+         "Inhibit response function": "Not performed",
+         "Impair process control": "Auxiliary conforming"
+      }
+   }
+]
