@@ -1,4 +1,4 @@
-# CyberThug
+# The Unspecialized OT Attacker
 This repository contains the raw data used in the submitted paper "Attacking Operational Technology Without Specialized Knowledge: The Unspecialized OT Threat Actor Profile".
 
 # Files
