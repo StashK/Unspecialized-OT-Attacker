@@ -5,6 +5,7 @@
       "sources": [
          "https://www.risidata.com/Database/Detail/plc-password-change"
       ],
+      "industry": "Pulp and Paper",
       "tool_mapping": {
          "Initial access": "Non-cyber non-conforming",
          "Execution": "Non-cyber non-conforming",
@@ -24,6 +25,7 @@
       "sources": [
          "https://www.chathamhouse.org/sites/default/files/field/field_document/20151005CyberSecurityNuclearBaylonBruntLivingstone.pdf"
       ],
+      "industry": "Power and Utilities",
       "tool_mapping": {
          "Initial access": "Non-cyber non-conforming",
          "Execution": "Unknown",
@@ -43,6 +45,7 @@
       "sources": [
          "http://edition.cnn.com/2000/TECH/computing/06/27/omega.files.idg/"
       ],
+      "industry": "Electronic Manufacturing",
       "tool_mapping": {
          "Initial access": "Non-cyber conforming",
          "Execution": "Non-commodity",
@@ -63,6 +66,7 @@
          "http://edition.cnn.com/TECH/computing/9803/18/juvenile.hacker/index.html",
          "http://www.irational.org/APD/CCIPS/juvenilepld.htm"
       ],
+      "industry": "Transportation",
       "tool_mapping": {
          "Initial access": "Auxiliary conforming",
          "Execution": "Auxiliary non-conforming",
@@ -82,6 +86,7 @@
       "sources": [
          "https://www.mitre.org/sites/default/files/pdf/08_1145.pdf"
       ],
+      "industry": "Water/Waste Water",
       "tool_mapping": {
          "Initial access": "Auxiliary non-conforming",
          "Execution": "Auxiliary non-conforming",
@@ -102,6 +107,7 @@
          "https://cardozoaelj.com/wp-content/uploads/Journal%20Issues/Volume%2024/Issue%201/Edwards.pdf",
          "https://www.zdnet.com/article/revenge-hack-downed-us-port-systems/"
       ],
+      "industry": "Transportation",
       "tool_mapping": {
          "Initial access": "Non-commodity",
          "Execution": "Non-commodity",
@@ -121,6 +127,7 @@
       "sources": [
          "https://www.risidata.com/Database/Detail/ski-gondola-worker-shutdown-control-system"
       ],
+      "industry": "Transportation",
       "tool_mapping": {
          "Initial access": "Non-cyber unknown",
          "Execution": "Non-cyber non-conforming",
@@ -140,6 +147,7 @@
       "sources": [
          "https://www.baselinemag.com/c/a/Projects-Security/Security-Breach-Power-Plants-Data-Leaks-Onto-Net"
       ],
+      "industry": "Power and Utilities",
       "tool_mapping": {
          "Initial access": "Unknown",
          "Execution": "Unknown",
@@ -159,6 +167,7 @@
       "sources": [
          "https://www.computerworld.com/article/2549204/two-charged-with-hacking-la-traffic-lights.html"
       ],
+      "industry": "Transportation",
       "tool_mapping": {
          "Initial access": "Auxiliary non-conforming",
          "Execution": "Unknown",
@@ -178,6 +187,7 @@
       "sources": [
          "https://www.computerworld.com/article/2540235/insider-charged-with-hacking-california-canal-system.html"
       ],
+      "industry": "Water/Waste Water",
       "tool_mapping": {
          "Initial access": "Non-cyber conforming",
          "Execution": "Unknown",
@@ -197,6 +207,7 @@
       "sources": [
          "https://www.csoonline.com/article/2123366/former-worker-sentenced-for-wrecking-servers.html"
       ],
+      "industry": "General Manufacturing",
       "tool_mapping": {
          "Initial access": "Auxiliary non-conforming",
          "Execution": "Auxiliary conforming",
@@ -216,6 +227,7 @@
       "sources": [
          "https://www.itnews.com.au/news/teenager-hacks-polish-tram-system-100838"
       ],
+      "industry": "Transportation",
       "tool_mapping": {
          "Initial access": "Non-cyber conforming",
          "Execution": "Non-commodity",
@@ -235,6 +247,7 @@
       "sources": [
          "https://www.risidata.com/Database/Detail/hacker_activates_emergency_sirens"
       ],
+      "industry": "City Infrastructure",
       "tool_mapping": {
          "Initial access": "Unknown",
          "Execution": "Unknown",
@@ -254,6 +267,7 @@
       "sources": [
          "https://www.risidata.com/Database/Detail/environmental_southland_target_of_cyber_vandals"
       ],
+      "industry": "Water/Waste Water",
       "tool_mapping": {
          "Initial access": "Unknown",
          "Execution": "Unknown",
@@ -273,6 +287,7 @@
       "sources": [
          "https://www.wired.com/2009/02/austin-road-sig/"
       ],
+      "industry": "Transportation",
       "tool_mapping": {
          "Initial access": "Non-cyber conforming",
          "Execution": "Non-cyber conforming",
@@ -293,6 +308,7 @@
          "https://www.wired.com/2011/03/ghostexodus-2/",
          "https://archives.fbi.gov/archives/dallas/press-releases/2011/dl031811.htm"
       ],
+      "industry": "Healthcare",
       "tool_mapping": {
          "Initial access": "Non-cyber conforming",
          "Execution": "Commodity",
@@ -312,6 +328,7 @@
       "sources": [
          "https://www.wired.com/2009/05/efh/"
       ],
+      "industry": "Power and Utilities",
       "tool_mapping": {
          "Initial access": "Auxiliary non-conforming",
          "Execution": "Auxiliary conforming",
@@ -333,6 +350,7 @@
          "https://www.wired.com/images_blogs/threatlevel/files/azar.pdf",
          "https://storage.courtlistener.com/recap/gov.uscourts.cacd.439674/gov.uscourts.cacd.439674.18.0.pdf"
       ],
+      "industry": "Petroleum",
       "tool_mapping": {
          "Initial access": "Auxiliary non-conforming",
          "Execution": "Auxiliary conforming",
@@ -353,6 +371,7 @@
          "https://www.risidata.com/Database/Detail/malware-shuts-down-milling-factory",
          "https://collaborate.mitre.org/attackics/index.php/Software/S0010"
       ],
+      "industry": "General Manufacturing",
       "tool_mapping": {
          "Initial access": "Non-commodity",
          "Execution": "Non-commodity",
@@ -373,6 +392,7 @@
          "https://www.risidata.com/Database/Detail/malware_targets_uranium_enrichment_facility",
          "https://collaborate.mitre.org/attackics/index.php/Software/S0010"
       ],
+      "industry": "Power and Utilities",
       "tool_mapping": {
          "Initial access": "Non-commodity",
          "Execution": "Non-commodity",
@@ -393,6 +413,7 @@
          "https://www.csmonitor.com/Technology/Horizons/2010/0318/Disgruntled-hacker-remotely-disables-100-cars",
          "https://www.wired.com/2010/03/hacker-bricks-cars/"
       ],
+      "industry": "Automotive",
       "tool_mapping": {
          "Initial access": "Auxiliary non-conforming",
          "Execution": "Auxiliary conforming",
@@ -413,6 +434,7 @@
          "https://www.inforisktoday.com/guilty-plea-in-drug-company-hack-a-3968",
          "https://www.wired.com/images_blogs/threatlevel/2011/08/Jason-Cornish-Complaint.pdf"
       ],
+      "industry": "Pharmaceutical",
       "tool_mapping": {
          "Initial access": "Auxiliary non-conforming",
          "Execution": "Auxiliary conforming",
@@ -432,6 +454,7 @@
       "sources": [
          "https://info.publicintelligence.net/FBI-AntisecICS.pdf"
       ],
+      "industry": "Unknown",
       "tool_mapping": {
          "Initial access": "Auxiliary conforming",
          "Execution": "Auxiliary conforming",
@@ -453,6 +476,7 @@
          "https://core.ac.uk/download/pdf/322474772.pdf",
          "http://www.symantec.com/connect/blogs/shamoon-attacks"
       ],
+      "industry": "Petroleum",
       "tool_mapping": {
          "Initial access": "Unknown",
          "Execution": "Non-commodity",
@@ -473,6 +497,7 @@
          "http://wired.com/2012/08/hack-attack-strikes-rasgas/",
          "http://www.symantec.com/connect/blogs/shamoon-attacks"
       ],
+      "industry": "Petroleum",
       "tool_mapping": {
          "Initial access": "Unknown",
          "Execution": "Non-commodity",
@@ -493,6 +518,7 @@
          "https://www.seatrade-maritime.com/europe/antwerp-incident-highlights-maritime-it-security-risk",
          "https://www.bbc.com/news/world-europe-24539417"
       ],
+      "industry": "Transportation",
       "tool_mapping": {
          "Initial access": "Non-cyber non-conforming",
          "Execution": "Non-commodity",
@@ -513,6 +539,7 @@
          "https://www.bleepingcomputer.com/news/security/fired-employee-hacks-and-shuts-down-smart-water-readers-in-five-us-cities/",
          "https://regmedia.co.uk/2017/06/26/flanagan.pdf"
       ],
+      "industry": "Water/Waste Water",
       "tool_mapping": {
          "Initial access": "Auxiliary non-conforming",
          "Execution": "Auxiliary unknown",
@@ -532,6 +559,7 @@
       "sources": [
          "https://web.archive.org/web/20140923170256/https://ics-cert.us-cert.gov/sites/default/files/Monitors/ICS-CERT_Monitor_%20Jan-April2014.pdf"
       ],
+      "industry": "Unknown",
       "tool_mapping": {
          "Initial access": "Auxiliary conforming",
          "Execution": "Not performed",
@@ -553,6 +581,7 @@
          "https://attack.mitre.org/groups/G0035/",
          "https://attack.mitre.org/software/S0093/"
       ],
+      "industry": "Power and Utilities",
       "tool_mapping": {
          "Initial access": "Non-commodity",
          "Execution": "Non-commodity",
@@ -572,6 +601,7 @@
       "sources": [
          "https://www.bbc.com/news/technology-32826351"
       ],
+      "industry": "Transportation",
       "tool_mapping": {
          "Initial access": "Auxiliary conforming",
          "Execution": "Auxiliary conforming",
@@ -591,6 +621,7 @@
       "sources": [
          "https://www.boozallen.com/content/dam/boozallen/documents/2016/09/ukraine-report-when-the-lights-went-out.pdf"
       ],
+      "industry": "Power and Utilities",
       "tool_mapping": {
          "Initial access": "Non-commodity",
          "Execution": "Non-commodity",
@@ -610,6 +641,7 @@
       "sources": [
          "History of Industrial Control System Cyber Incidents - Idaho National Laboratory"
       ],
+      "industry": "Petroleum",
       "tool_mapping": {
          "Initial access": "Unknown",
          "Execution": "Commodity",
@@ -630,6 +662,7 @@
          "A Review of Cybersecurity Incidents in the Water Sector - Journal of Environmental Engineering",
          "https://www.circleofblue.org/2017/water-management/water-utility-cyberattack-rings-hefty-data-charges/"
       ],
+      "industry": "Water/Waste Water",
       "tool_mapping": {
          "Initial access": "Unknown",
          "Execution": "Unknown",
@@ -649,6 +682,7 @@
       "sources": [
          "Data breach digest - Verizon 2016"
       ],
+      "industry": "Water/Waste Water",
       "tool_mapping": {
          "Initial access": "Unknown",
          "Execution": "Auxiliary conforming",
@@ -670,6 +704,7 @@
          "https://attack.mitre.org/groups/G0074/",
          "https://web.archive.org/web/20170914121525/https://www.symantec.com/connect/blogs/dragonfly-western-energy-sector-targeted-sophisticated-attack-group"
       ],
+      "industry": "Power and Utilities",
       "tool_mapping": {
          "Initial access": "Unknown",
          "Execution": "Non-commodity",
@@ -690,6 +725,7 @@
          "History of Industrial Control System Cyber Incidents - Idaho National Laboratory",
          "https://www.wired.com/story/notpetya-cyberattack-ukraine-russia-code-crashed-the-world/"
       ],
+      "industry": "Transportation",
       "tool_mapping": {
          "Initial access": "Non-commodity",
          "Execution": "Non-commodity",
@@ -709,6 +745,7 @@
       "sources": [
          "A Review of Cybersecurity Incidents in the Water Sector - Journal of Environmental Engineering"
       ],
+      "industry": "Water/Waste Water",
       "tool_mapping": {
          "Initial access": "Unknown",
          "Execution": "Commodity",
@@ -729,6 +766,7 @@
          "https://www.eenews.net/stories/1061111289",
          "https://www.eenews.net/assets/2019/09/06/document_ew_02.pdf"
       ],
+      "industry": "Power and Utilities",
       "tool_mapping": {
          "Initial access": "Unknown",
          "Execution": "Unknown",
@@ -748,6 +786,7 @@
       "sources": [
          "https://www.documentcloud.org/documents/20890976-wyatt-travnichek-indictment"
       ],
+      "industry": "Water/Waste Water",
       "tool_mapping": {
          "Initial access": "Auxiliary non-conforming",
          "Execution": "Auxiliary unknown",
@@ -769,6 +808,7 @@
          "https://www.dco.uscg.mil/Portals/9/DCO%20Documents/5p/MSIB/2019/MSIB_10_19.pdf",
          "https://collaborate.mitre.org/attackics/index.php/Software/S0011"
       ],
+      "industry": "Transportation",
       "tool_mapping": {
          "Initial access": "Unknown",
          "Execution": "Commodity",
@@ -789,6 +829,7 @@
          "https://www.tampabay.com/news/pinellas/2021/02/08/someone-tried-to-poison-oldsmars-water-supply-during-hack-sheriff-says/",
          "https://www.reuters.com/article/us-usa-cyber-florida-idUSKBN2A82FV/"
       ],
+      "industry": "Water/Waste Water",
       "tool_mapping": {
          "Initial access": "Auxiliary conforming",
          "Execution": "Auxiliary conforming",
@@ -809,6 +850,7 @@
          "https://research.checkpoint.com/2021/indra-hackers-behind-recent-attacks-on-iran/",
          "https://www.sentinelone.com/labs/meteorexpress-mysterious-wiper-paralyzes-iranian-trains-with-epic-troll/"
       ],
+      "industry": "Transportation",
       "tool_mapping": {
          "Initial access": "Unknown",
          "Execution": "Non-commodity",
@@ -829,6 +871,7 @@
          "https://isssource.com/hacker-accessed-water-treatment-system/",
          "https://www.nbcnews.com/tech/security/hacker-tried-poison-calif-water-supply-was-easy-entering-password-rcna1206"
       ],
+      "industry": "Water/Waste Water",
       "tool_mapping": {
          "Initial access": "Auxiliary conforming",
          "Execution": "Auxiliary conforming",
@@ -848,6 +891,7 @@
       "sources": [
          "https://www.zdnet.com/article/airplane-maker-bombardier-data-posted-on-ransomware-leak-site-following-fta-hack/"
       ],
+      "industry": "Automotive",
       "tool_mapping": {
          "Initial access": "Unknown",
          "Execution": "Unknown",
@@ -868,6 +912,7 @@
          "https://www.bleepingcomputer.com/news/security/stealthy-hackers-target-military-and-weapons-contractors-in-recent-attack/",
          "https://www.securonix.com/blog/detecting-steepmaverick-new-covert-attack-campaign-targeting-military-contractors/"
       ],
+      "industry": "General Manufacturing",
       "tool_mapping": {
          "Initial access": "Auxiliary conforming",
          "Execution": "Non-commodity",
@@ -888,6 +933,7 @@
          "https://www.mandiant.com/resources/blog/hacktivists-targeting-ot-systems",
          "https://blog.cyble.com/2022/07/25/global-hacktivism-on-the-rise/"
       ],
+      "industry": "",
       "tool_mapping": {
          "Initial access": "Auxiliary conforming",
          "Execution": "Commodity",
@@ -907,6 +953,7 @@
       "sources": [
          "https://www.otorio.com/blog/pro-palestinian-hacking-group-compromises-berghof-plcs-in-israel/"
       ],
+      "industry": "Unknown",
       "tool_mapping": {
          "Initial access": "Auxiliary conforming",
          "Execution": "Auxiliary conforming",
