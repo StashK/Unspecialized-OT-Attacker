@@ -933,7 +933,7 @@
          "https://www.mandiant.com/resources/blog/hacktivists-targeting-ot-systems",
          "https://blog.cyble.com/2022/07/25/global-hacktivism-on-the-rise/"
       ],
-      "industry": "",
+      "industry": "Unknown",
       "tool_mapping": {
          "Initial access": "Auxiliary conforming",
          "Execution": "Commodity",
